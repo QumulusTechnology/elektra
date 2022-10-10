@@ -4,7 +4,7 @@
     "@popperjs/core": "^2.11.6",
     "@rails/actioncable": "^6.1.5",
     "ansi-up": "^1.0.0",
-    "axios": "^0.21",
+    "axios": "^0.27.0",
     "bootstrap": "3.4.1",
     "bootstrap-3-typeahead": "^4.0.2",
     "bootstrap-multiselect": "0.9.15",
