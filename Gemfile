@@ -32,7 +32,7 @@ gem 'responders'
 # gem 'react-rails', '~> 2.2.1'
 
 # Database
-gem 'pg', '1.3.4'
+gem 'pg', '1.4.5'
 gem 'activerecord-session_store'
 
 # Openstack
