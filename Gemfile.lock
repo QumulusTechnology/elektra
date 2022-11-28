@@ -410,7 +410,7 @@ GEM
     minitest (5.16.1)
     multi_json (1.15.0)
     net-ssh (6.1.0)
-    netaddr (2.0.4)
+    netaddr (2.0.6)
     netrc (0.11.0)
     nio4r (2.5.8)
     nokogiri (1.13.6-arm64-darwin)
@@ -623,7 +623,7 @@ DEPENDENCIES
   metrics!
   monsoon-openstack-auth!
   net-ssh
-  netaddr (= 2.0.4)
+  netaddr (= 2.0.6)
   networking!
   object_storage!
   object_storage_ng!
